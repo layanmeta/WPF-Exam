@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="WPFexam2.QuestionControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPFexam2"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid x:Name="grid">
+        <Label x:Name="questionlabel" Content="Label" HorizontalAlignment="Left" Margin="253,56,0,0" VerticalAlignment="Top" Width="294"/>
+        <Button x:Name="question1button" Content="Button" HorizontalAlignment="Left" Margin="207,136,0,0" VerticalAlignment="Top" Width="75" Click="QuestionButton_Click"/>
+        <Button x:Name="question2button" Content="Button" HorizontalAlignment="Left" Margin="394,136,0,0" VerticalAlignment="Top" Width="75" Click="QuestionButton_Click"/>
+        <Button x:Name="question3button" Content="Button" HorizontalAlignment="Left" Margin="207,220,0,0" VerticalAlignment="Top" Width="75" Click="QuestionButton_Click"/>
+        <Button x:Name="question4button" Content="Button" HorizontalAlignment="Left" Margin="394,220,0,0" VerticalAlignment="Top" Width="75" Click="QuestionButton_Click"/>
+        <Label x:Name="Timer" Content="Label" HorizontalAlignment="Left" Margin="524,314,0,0" VerticalAlignment="Top" Width="108"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,16 @@
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\bin\Debug\WPFexam2.exe.config
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\bin\Debug\WPFexam2.exe
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\bin\Debug\WPFexam2.pdb
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\MainWindow.g.cs
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\App.g.cs
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\WPFexam2_MarkupCompile.cache
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\WPFexam2_MarkupCompile.lref
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\MainWindow.baml
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\WPFexam2.g.resources
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\WPFexam2.Properties.Resources.resources
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\WPFexam2.csproj.GenerateResource.cache
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\WPFexam2.exe
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\WPFexam2.pdb
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\QuestionControl.g.cs
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\layan\source\repos\WPFexam2\WPFexam2\obj\Debug\QuestionControl.baml
