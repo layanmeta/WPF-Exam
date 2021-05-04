@@ -1,0 +1,17 @@
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\bin\Debug\WPFExam1.exe.config
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\bin\Debug\WPFExam1.exe
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\bin\Debug\WPFExam1.pdb
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\WPFExam1.csprojAssemblyReference.cache
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\MainWindow.g.cs
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\App.g.cs
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\WPFExam1_MarkupCompile.cache
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\WPFExam1_MarkupCompile.lref
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\MainWindow.baml
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\WPFExam1.g.resources
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\WPFExam1.Properties.Resources.resources
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\WPFExam1.csproj.GenerateResource.cache
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\WPFExam1.exe
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\WPFExam1.pdb
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\ButtonPropertiesWindow.g.cs
+C:\Users\layan\source\repos\WPFExam1\WPFExam1\obj\Debug\ButtonPropertiesWindow.baml
